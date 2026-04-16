@@ -1,0 +1,40 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Composer
+vendor/
+composer.lock
+
+# Node (build tools)
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+debug.log
+error_log
+
+# Build
+dist/
+build/
+
+# Testing
+coverage/
+.phpunit.result.cache
